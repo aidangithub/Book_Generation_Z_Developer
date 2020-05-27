@@ -13,6 +13,6 @@ status: draft
  - this is why you want to share
  - example of how I use it (twitter case study)
 
-  - use twitter as your personal search engine. Here is a perfect example that happened with me when writing this book:
+  - use Twitter as your personal search engine. Here is a perfect example that happened with me when writing this book:
      - ![image](images/future-self-1.png)
      - ![image](images/future-self-2.png)
